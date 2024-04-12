@@ -57,6 +57,6 @@ plt.ylabel('词频', fontsize=14, fontweight='bold')
 plt.title('词频与词语排名的关系')
 plt.grid(True)
 # plt.show()
-plt.savefig('Zip_Law.png', dpi=300)  # dpi参数指定图像的分辨率，300为常用的分辨率
+plt.savefig('Zipf\'s_Law.png', dpi=300)  # dpi参数指定图像的分辨率，300为常用的分辨率
 plt.close()
 
